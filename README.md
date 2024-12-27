@@ -40,15 +40,6 @@ This webpage showcases key characters from the iconic TV show **Gossip Girl**. E
 2. Open the `index.html` file in a browser to see the character showcase in action.
 3. Customize the content or add more characters to the webpage as needed.
 
-## Future Improvements
-
-- **Interactive Character Profiles**: Adding a more detailed page for each character.
-- **Animations**: More dynamic animations to enhance user engagement.
-- **Search Functionality**: Add a search feature to find specific characters.
-
-## Contact
-
-For any questions or feedback, feel free to reach out. Enjoy exploring the world of **Gossip Girl**!
 
 ---
 
